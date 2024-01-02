@@ -48,7 +48,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            My Official discord's if you need assistance with one of my projects!
+            My Official discords if you need assistance with one of my projects!
           </p>
         </a>
 
